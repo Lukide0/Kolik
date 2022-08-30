@@ -1,0 +1,19 @@
+Standard: "c++17"
+BasedOnStyle: WebKit 
+
+# brackets
+IndentWidth: 4
+AccessModifierOffset: -4
+IndentPPDirectives: AfterHash
+BreakBeforeBraces: Allman
+
+
+# alignment
+ColumnLimit: 120
+AlignAfterOpenBracket: Align 
+AlignArrayOfStructures: Right
+AlignConsecutiveAssignments: Consecutive
+AlignEscapedNewlines: Left
+AlignTrailingComments: True
+PointerAlignment: Left
+ReferenceAlignment: Pointer

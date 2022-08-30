@@ -1,0 +1,6 @@
+[submodule "vendor/reproc"]
+	path = vendor/reproc
+	url = https://github.com/DaanDeMeyer/reproc
+[submodule "vendor/nlohmann"]
+	path = vendor/nlohmann
+	url = https://github.com/nlohmann/json
